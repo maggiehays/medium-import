@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta property="article:published_time" content="2024-05-03T12:00:00.000Z" />
+    </head>
+
+    <body>
+        <main>
+            <article>
+                <section>
+                    <div class="pw-post-title">
+                        <h1>Decoding Data Leadership (DDL) Ep 1: To Data Catalog or Not to Catalog?</h1>
+                    </div>
+                    <p class="pw-post-body-paragraph">
+                        We are thrilled to introduce DDL - Decoding Data Leadership, our latest show featuring conversations with data leaders from around the globe and across diverse industries. While discussions today often revolve around
+                        technologies and tools, DDL shifts the spotlight to the leaders navigating the complexities of the data landscape. Our show dives deep into the challenges, strategies, and lessons shared by those riding new
+                        technology waves and steering data teams through choppy waters. From navigating complex infrastructures to making the most of the latest tools to cultivating a culture of data excellence, join us as data leaders
+                        share their journeys and insights on tackling the challenges of leading and running large data teams and initiatives. And now, on to our first episode.
+                    </p>
+                    <p class="pw-post-body-paragraph">
+                        To Data Catalog or Not to Catalog? That's the question we're tackling head-on in our inaugural episode of DDL - Decoding Data Leadership. Data catalogs are a hot topic that truly divides data leaders.
+                    </p>
+                </section>
+            </article>
+        </main>
+    </body>
+</html>
